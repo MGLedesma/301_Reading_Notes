@@ -9,3 +9,14 @@ AD Fundamental Features and Capabilities
 - Global catalog
 - Query & index machanism
 - Replication Service
+
+Active Directory Domain Services is the primary active directory service used to authenticate users and to control access to network resources
+
+A server running Active Directory Domain Services is called a domain controller
+
+Active Directory Data Structure
+- Domain shares the same active directory database and identified by a DNS name.
+- Tree one or more domain with a contigous namespace
+- FOrest one or more trees that share a common schema, global catalog, and directory configuration but not part of the contigous namespace.
+
+Active Directory provides a variety of functional and business benefits, including: security, extensibility, simplicity, resilientcy.
