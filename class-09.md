@@ -1,5 +1,4 @@
 # CIDR Block Notation
-
 Resource: [CIDR Block Notation Explained in 2 Minutes](https://medium.com/@ethicalentrepreneur/cidr-block-notation-explained-in-2-minutes-1010ec0dbc15)
 
 
@@ -10,10 +9,9 @@ Resource: [CIDR Block Notation Explained in 2 Minutes](https://medium.com/@ethic
 - In CIDR notation, this full range would be represented as 0.0.0.0/0. The final digit after the “/” represents how many bits make up the mask.
 
 ---
----
+
 
 # Network Segmentation
-
 Resource: [What Is Network Segmentation and Why It Matters?](https://www.comptia.org/blog/security-awareness-training-network-segmentation)
 
 ## What Is Network Segmentation?
@@ -25,7 +23,6 @@ Systems and services need to be isolated from one another to prevent a small bre
 Whether you are running a virtual local area network (LAN) in the cloud or running an SDN-powered architecture, network segmentation will protect your assets.
 
 ## Types of Network Segmentation
-
 - Users: Users are a network in and of themselves. Make sure you have correct access control on your users in your active directory. Privilege levels should be based on the user’s role in switching administration. Access control lists are typically already a part of your active directory server. 
 
 - Screened Subnet: This includes the subnetworks that expose externally facing systems – where the handshakes take place on your network. You want to separate things that the public can access from your local area network (LAN) and internal data that needs to be protected.
@@ -47,7 +44,6 @@ Whether you are running a virtual local area network (LAN) in the cloud or runni
 Configuring your intrusion detection and intrusion prevention system (IDS/IPS) tools to monitor your internal segmented network zones, just as you would set them to monitor your public-facing networks. Make sure to review your logs or work with an IT partner that will double your vigilance and act as an extra set of eyes.
 
 ## Who Needs Network Segmentation?
-
 Each will require a different level of segmentation.
 
 Everyone running internal systems, whether physical or virtualized. The more complicated the architecture, the more important the need for segmentation. 
@@ -59,7 +55,6 @@ A flat network is an ideal target for a threat actor.
 There is no substitute for network segmentation. Micro-segmentation requires some time to initially set up, but the benefits highly outweigh the upfront time cost.
 
 ## Benefits of Network Segmentation
-
 - Damage control and limitation in case of an incident via the smaller attack surface
 - Improved access control for external and internal network security
 - Reducing the attack plane and scope of compliance requirements related auditing
