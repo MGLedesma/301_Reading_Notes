@@ -1,6 +1,6 @@
 # NAT - Network Address Translation
 
-Resource: (Network Address Translation (NAT))[https://www.geeksforgeeks.org/network-address-translation-nat/]
+Resource: [Network Address Translation (NAT](https://www.geeksforgeeks.org/network-address-translation-nat/)
 
 ### NAT - Network Address Translation 
 
