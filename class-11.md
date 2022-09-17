@@ -27,5 +27,3 @@ NAT masks the source port number and makes an entry in the NAT table to avoid pr
  2. Dynamic NAT - a private IP address is translated into a public IP address from a pool of public IP addresses. 
  3. PAT (Port Address Translatio) - aka NAT overload. Many private IP addresses is translated to a single registered IP, then a port number is used to distinguish which traffic belong to which IP address.
 
-
-
