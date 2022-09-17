@@ -20,7 +20,7 @@ NAT masks the source port number and makes an entry in the NAT table to avoid pr
 - Outside local address - the IP address to the destionation host in the local network after translation
 - Outside global address - the IP address of the outside destination host before translation
 
-## NAT Types
+### NAT Types
 
 3 configuation:
  1. Static NAT - used for Web hosting, a one-to-one mapping between local (single unregistered private IP) and (legally registered public) global addresses. 
