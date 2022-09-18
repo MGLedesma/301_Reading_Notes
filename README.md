@@ -12,5 +12,5 @@
 - [RN10- Site to Site VPN](class-10.md)
 - [RN11- NAT](class-11.md)
 - [RN12- RADIUS](class-12.md)
-- [RN13- Port Mirroring](class-13.md)
-- [RN14- Port Scanning](class-14.md)
+- [RN13- SPAN & TAP](class-13.md)
+- [RN14- NMAP](class-14.md)
