@@ -10,5 +10,5 @@ Port Mirroring aka SPAN, is a method of monitoring network traffic which forward
     - it is the only way to capture intra-switch traffic
 
 
-Network TAP (Terminal Access Point) is a hardware device which can passively capture traffic on a network which is commonly used to monitor the traffic between two points in the network. 
-    - has at least 3 ports: an A port, a B port, and a monitor port. 
+Network TAP (Terminal Access Point) is a hardware device which can passively capture traffic on a network commonly used to monitor the traffic between two points in the network. 
+    - has at least 3 ports: an A port, a B port, and a monitor port. A TAP is place between port A and B, as all traffic between two network passes the TAP, it copies the traffic to its monitor port to listen for analysis.
