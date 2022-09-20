@@ -14,3 +14,4 @@
 - [RN12- RADIUS](class-12.md)
 - [RN13- SPAN & TAP](class-13.md)
 - [RN14- NMAP](class-14.md)
+- [RN15- Diversity & Inclusion in the Tech Industry](class-15.md)
